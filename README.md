@@ -1,3 +1,3 @@
 # Hangman-Game
 
-A html css JavaScript Hangman Game.
+A html css js Hangman Game.
